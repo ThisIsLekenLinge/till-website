@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.burple {
+  background-color: #7289DA !important;
+}
+.llblue {
+  background-color: #2977cc !important;
+}
+.lldarkblue {
+  background-color: #1c508a !important;
+}
